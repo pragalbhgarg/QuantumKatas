@@ -1,5 +1,5 @@
 # Introduction
-
+# tc
 The Quantum Katas are a series of self-paced tutorials to help you learn quantum computing and Q# programming.
 
 :new: *(November 2019)* We've added a set of tutorials that introduce the learner to the most basic concepts used in quantum computing, 
